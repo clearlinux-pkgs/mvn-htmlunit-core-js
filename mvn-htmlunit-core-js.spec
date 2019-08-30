@@ -4,7 +4,7 @@
 #
 Name     : mvn-htmlunit-core-js
 Version  : 2.17
-Release  : 1
+Release  : 2
 URL      : https://github.com/HtmlUnit/htmlunit-core-js/archive/core-js-2.17.tar.gz
 Source0  : https://github.com/HtmlUnit/htmlunit-core-js/archive/core-js-2.17.tar.gz
 Source1  : https://repo1.maven.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.jar
